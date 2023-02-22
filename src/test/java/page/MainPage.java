@@ -2,8 +2,8 @@ package page;
 
 public class MainPage {
     @Override
-    public int hashCode() {
-        return super.hashCode();
+    public int hashCo  de() {
+        return super.hashC  ode();
     };
-
+sadada1213123
 }
